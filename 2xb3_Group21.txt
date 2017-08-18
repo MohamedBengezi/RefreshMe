@@ -1,0 +1,9 @@
+SFWR ENG 2XB3
+
+400020215,	Cameron Van Ravens,	Log Administrator and Programmer
+400029943,	Lucas Shanks,		Project leader and Programmer
+400022342,	Nathan Coit,		Programmer
+400033968,	Simon Gyorkos,		Programmer
+400021279,	Mohamed Bengezi,	Programmer
+
+We attest to the fact that the work being submitted is of our group's own work. - 12/04/2017
