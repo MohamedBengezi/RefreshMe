@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
  * the data read from the dataset, as outlined in the UML State Machine
  * diagram for this class.
  * 
- * @author vanravec
+ * @author bengezim
  */
 
 public class RefreshMeRunner {
